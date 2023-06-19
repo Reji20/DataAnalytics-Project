@@ -1,1 +1,1 @@
-# DataAnalytics-Project
+# Customer Segmentation Project
